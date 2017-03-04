@@ -1,6 +1,6 @@
 # Beginning Scala session1
 
-------
+## Exercises
 
 This session has 4 exercises. You have to implement the solutions to get the tests passing.
 
@@ -11,7 +11,7 @@ This session has 4 exercises. You have to implement the solutions to get the tes
 
 You have to submit your assignment by Wednesday 15th March 2017. You can do so by raising a pull request against your repo.
 
------
+## Writing
 
 In addition, you are required to pick one of the following topics to write a blog post on. Each blog post has to be a minimum of 100 words.
 
@@ -19,3 +19,8 @@ In addition, you are required to pick one of the following topics to write a blo
 2. Tail recursion in Scala
 3. Scala Case classes
 4. Getting started with ScalaTest
+
+
+## Recommended reading:
+
+Chapters 1, 2 and 3 of "Beginning Scala" by David Pollak and Vishal Layka, 2nd Edition.
